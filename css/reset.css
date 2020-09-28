@@ -280,7 +280,7 @@ input:-webkit-autofill:focus {
 }
 #breadcrumbs {
 	padding: 55px 0;
-	background: url('http://via.placeholder.com/1500x800');
+	/*background: url('http://via.placeholder.com/1500x800');*/
 	position: relative;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
